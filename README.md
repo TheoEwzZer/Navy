@@ -85,7 +85,7 @@ Player 1
 
 ```text
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . 2 . . . . .
 2|. . 2 . . . . .
@@ -97,7 +97,7 @@ my positions:
 8|. 4 . . . . . .
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . . . . . . .
 2|. . . . . . . .
@@ -118,7 +118,7 @@ Player 2
 
 ```text
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. 5 5 5 5 5 . 3
 2|. . . . . . . 3
@@ -130,7 +130,7 @@ my positions:
 8|. . . . . . . .
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . . . . . . .
 2|. . . . . . . .
@@ -156,7 +156,7 @@ Player 1
 
 ```text
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . x . . . . .
 2|. . 2 . . . . .
@@ -168,7 +168,7 @@ my positions:
 8|. 4 . . . . . .
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . . . . . . .
 2|. . . . . . . .
@@ -190,7 +190,7 @@ Player 2
 
 ```text
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. 5 5 5 5 5 . 3
 2|. . . . . . . 3
@@ -202,7 +202,7 @@ my positions:
 8|. . . . . . . .
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. . x . . . . .
 2|. . . . . . . .
@@ -231,7 +231,7 @@ attack: H
 H6: hit
 
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|o . x o . o . o
 2|. . 2 . . o . .
@@ -243,7 +243,7 @@ my positions:
 8|. o . o . o . o
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. x x x x o . x
 2|. . . o . o . x
@@ -264,7 +264,7 @@ waiting for enemy’s attack...
 H6: hit
 
 my positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|. x x x x o . x
 2|. . . o . o . x
@@ -276,7 +276,7 @@ my positions:
 8|. . . . . o . .
 
 enemy’s positions:
-|A B C D E F G H
+| A B C D E F G H
 -+---------------
 1|o . x o . o . o
 2|. . . . . o . .
